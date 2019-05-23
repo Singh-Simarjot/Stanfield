@@ -1,0 +1,1483 @@
+@media screen and (max-width: 1440px) {
+
+    div.home-banner .header-title-section {
+        padding: 42vh 0 !important;
+        margin-top: 0;
+    }
+
+
+}
+
+@media screen and (max-width: 1331px) {
+    .navbar-brand {
+        margin-left: 0;
+    }
+}
+
+@media screen and (max-width: 1150px) {
+    .sidebar .bloglist {
+        max-width: 100%;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+
+    }
+    div#myModal .modal-dialog .modal-content {
+    margin: 0 15px;
+}
+    /* conatct */
+    section .contact-form {
+        transform: translate(0, -200px);
+    }
+
+    .contact-wrapper::after {
+        top: -200px;
+
+    }
+
+}
+
+@media screen and (max-width: 1024px) {
+   
+.crypto-investment {
+    background-repeat: no-repeat !important;
+    background-position: right 100% !important;
+    background-attachment: scroll !important;
+    background-size: 200% !important;
+}
+    }
+
+@media screen and (max-width:992px) {
+    .modal .nav-item:hover .nav-link
+    {
+/*        color: #000*/
+    }
+    #nav-menu li a {
+    display: block;
+}
+    .masnory_image {
+        height: 433px;
+    }
+    .social-info .count {
+        min-width: 60px;
+    }
+    .sidebar .bloglist {
+        max-width: 50%;
+        -ms-flex: 0 0 50%;
+        flex: 0 0 50%;
+
+    }
+    .navbar-expand-lg > .container {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .pt-10 {
+        padding-top: 75px !important
+    }
+    .pb-10 {
+        padding-bottom: 75px !important
+    }
+    .py-10 {
+        padding-top: 75px !important;
+        padding-bottom: 75px !important
+    }
+
+    /* conatct */
+    section .contact-form {
+        transform: translate(0, -100px);
+    }
+
+    .contact-wrapper::after {
+        top: -100px;
+
+    }
+}
+
+@media screen and (max-width:940px) {
+    .fund-details .header-title-section {
+        padding-top: 120px;
+    }
+    .download-now-btn::after {
+
+        top: 50px;
+        right: 50px;
+
+    }
+    .fund-details .col-md-6 {
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .fund-details {
+        position: relative
+    }
+    .fund-details .link_download {
+        /* margin-left: 0 !important; */
+        margin-right: auto;
+        float: none !important;
+        margin-top: 2rem !important;
+        margin-bottom: 1rem !important;
+    }
+    .fund-details .col-md-6.position-relative {
+        position: static !important
+    }
+    .smart-index-graph-right .other-details {
+        margin-top: 8% !important;
+        padding: 5% 0;
+    }
+}
+@media screen and (max-width:770px) {
+    
+    .top-post{
+        margin-bottom: 0px;
+    }
+      .footer-links {
+        background: rgba(245, 245, 245, 1) url(../img/map.png);
+        /* width: 90%; */
+        /* float: right; */
+        margin-left: auto;
+        padding: 30px 40px;
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: 60%;
+        text-align: center;
+    }
+  .footer-links .open-footerul {
+    display: block;
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+      margin-bottom: 20px !important
+}
+     .footer-links .open-footerul li
+    {
+        margin: 10px 0 !important
+    }
+    .footer-links ul {
+        display: none
+/*
+    opacity: 0;
+    visibility: hidden;
+    height: 0;
+    padding: 0 !important;
+    margin: 0 !important;
+         -webkit-transition: top 0.5s;
+    transition: top 0.5s;
+*/
+}
+    .footer-links ul.activeul
+    {
+        opacity: 1;
+        visibility: visible;
+        height: auto;
+            margin-top: .5rem!important;
+            padding-top: .25rem!important;
+    }
+    
+    .top-footer {
+        background: none;
+    }
+
+    .footer-links .menu-link {
+        position: relative;
+        margin: 5px 0;
+        padding-right: 0 !important;
+        padding-left: 0 !important;
+    }
+    .footer-links .menu-link h6 {
+        cursor: pointer;
+        font-weight: normal !important;
+    }
+    /*
+    .footer-links .menu-link.active h6::after {
+        content: "\f0d8";
+    }
+*/
+    .footer-links .menu-link.active ul {
+        display: block
+    }
+    /*
+    .footer-links .menu-link h6::after {
+        content: "\f0d7";
+        display: inline-block;
+        position: absolute;
+        right: 20px;
+        font-size: 25px;
+        cursor: pointer;
+        font-family: Font Awesome\ 5 Pro;
+        top: 3px;
+        color: #ccc;
+    }
+*/
+    .address-wrap {
+        order: 3;
+        -webkit-box-ordinal-group: 3;
+        -ms-flex-order: 3;
+        text-align: center;
+        margin-top: 25px;
+        border-left: 0 !important;
+    }
+    .address-wrap address {
+        margin-bottom: 0 !important
+    }
+    .address-wrap address ul:after {
+       content:none;
+        display: none;
+    }
+   address ul:before {
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    content: "";
+    display: inline-block;
+    position: absolute;
+    top: auto;
+    width: 35px;
+    border: 2px solid #da291c;
+    bottom: -10px
+}
+    .logo-slogan {
+        max-width: 300px;
+        margin: 0 auto
+    }
+    .footer-address .text-right {
+        text-align: left !important;
+        float: right;
+        position: relative;
+        margin-bottom: 40px !important
+    }
+    .footer-address .text-right span {
+        background: #da291c;
+        position: absolute;
+        width: 35px;
+        height: 3px;
+        display: inline-block;
+        margin: 10px 0;
+        max-width: 35px;
+        bottom: -25px;
+        left: 0;
+    }
+    address ul li {
+        margin: 5px 8px 5px 8px;
+    }
+    .address-wrap address span {
+        font-size: 18px !important;
+        color: #da291c !important;
+    }
+    .address-wrap address ul {
+        margin-top: 0 !important;
+    }
+    
+    .top-footer .col-12 {
+    max-width: 100% !important;
+    flex: 0 0 100% !important;
+}
+.modal-body .dropdown-menu {
+    max-width: 186px;
+    margin: 0 auto;
+        margin-bottom: 0px;
+    margin-bottom: 12px;
+    display: none
+}
+  .fund_trigger.active .dropdown-menu {
+    display: block;
+}
+.modal-body .dropdown-menu div {
+    padding: 7px 0 !important;
+    line-height: 16px;
+    font-size: 14px;
+}
+
+}
+
+@media screen and (max-width:767px){
+    .top-post{
+        margin-bottom: 20px !important;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .about-banner .header-title-section {
+    padding-bottom: 40px !important;
+}
+    h1 {
+
+        font-size: 34px;
+    }
+    h2 {
+        font-size: 22px;
+    }
+    h3 {
+        font-size: 20px
+    }
+    h4 {
+        font-size: 16px
+    }
+    h1.font-weight-bold,
+    h2.font-weight-bold {
+        font-weight: normal !important;
+    }
+    .pb-10 {
+        padding-bottom: 35px !important
+    }
+    .py-10 {
+        padding-top: 35px !important;
+        padding-bottom: 35px !important
+    }
+    .font-21 {
+        font-size: 18px !important;
+    }
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 0;
+    padding-right: 0;
+}
+    .thoughtstream-banner .header-title-section {
+        padding-bottom: 40px !important;
+        padding-top:80px !important;
+    }
+    .our_valued_service h4 {
+        margin-top: 10px !important;
+    }
+    .about-banner .container.shapes .row:first-child {
+        margin-bottom: 40px !important;
+    }
+    .thankscontent-data { padding: 30px !important}
+    .wow.fadeIn {
+        visibility: visible !important;
+        animation-name: none !important;
+        top: 0 !important;
+    }
+     .modal-body  #nav-menu ul.open-footerul li > span {
+    font-size: 13px;
+    color: rgba(0,0,0,.6) !important;
+    font-weight: normal;
+}
+    .navbar-toggler {
+        padding: 4px 9px !important;
+        font-size: 18px;
+        line-height: 1;
+        background-color: transparent;
+        border: 1px solid transparent;
+        border-top-width: 1px;
+        border-right-width: 1px;
+        border-bottom-width: 1px;
+        border-left-width: 1px;
+        border-radius: .25rem;
+        background: #da291c;
+        color: #fff;
+    }
+    .navbar-toggler .fa {
+        font-weight: 300
+    }
+    .about-banner {
+        background-position: left center;
+
+    }
+
+    .section-top-content {
+        margin-bottom: 0 !important;
+    }
+    .crypto-investment {
+
+        background-repeat: no-repeat !important;
+        background-position: right 0% !important;
+        background-attachment: scroll !important;
+        background-size: 170% !important;
+
+    }
+
+    /*
+    .homebg
+    {
+        background-image: url(../img/home-back.jpg);
+        background-attachment: fixed;
+        background-position:right 0;
+        background-size:400%;
+        background-repeat: no-repeat;
+    }
+*/
+    .fund-detail-section-mobile .tab-content > .tab-pane {
+
+        padding: 0 20px;
+    }
+    .nav-tabs .nav-item .nav-link img {
+        width: 80px;
+    }
+    .banner .header-title-section {
+        margin-top: 0;
+    }
+    .navbar-brand img {
+        width: 170px;
+    }
+    .masnory_image {
+        height: 335px;
+    }
+    .social-info .count {
+        min-width: unset;
+        padding: 0 10px;
+        float: left;
+        line-height: 47px;
+    }
+    .social-info .icon {
+        float: left;
+
+    }
+    .margin-left-zero {
+        margin-left: 0 !important
+    }
+    .margin-right-zero {
+        margin-right: 0 !important
+    }
+    .margin-bottom-zero {
+        margin-bottom: 0 !important
+    }
+    .margin-top-zero {
+        margin-top: 0 !important
+    }
+    .padding-left-zero {
+        padding-left: 0 !important
+    }
+    .padding-right-zero {
+        padding-right: 0 !important
+    }
+    .padding-bottom-zero {
+        padding-bottom: 0 !important
+    }
+    .padding-top-zero {
+        padding-top: 0 !important
+    }
+    .fund-ratio .col-9 {
+        margin-left: auto;
+        margin-top: -20px;
+        z-index: -2;
+    }
+    .smart-rebalance .col {
+        /* width: 100%; */
+        flex-basis: unset;
+        margin-bottom: 30px;
+        margin-left: 15px !important;
+        margin-right: 15px !important;
+    }
+    .smart-rebalance .section-top-content {
+        padding-bottom: 0 !important;
+    }
+    .smart-rebalance hr {
+        display: none
+    }
+    .container.smart-rebalance .col-lg-6 {
+        border-top: 1px solid #ddd;
+        margin-top: 10px
+    }
+    .criterias {
+        display: block !important
+    }
+    .bottom-footer {
+        padding-left: 0 !important;
+        padding-right: 0 !important
+    }
+    .fees-section .col-sm-3 {
+        -ms-flex: 0 0 25%;
+        flex: 0 0 25%;
+        max-width: 25%;
+    }
+    .fees-section .col-sm-4 {
+        -ms-flex: 0 0 50;
+        flex: 0 0 50;
+        max-width: 50%;
+    }
+    .download-factsheet {
+/*        margin-bottom: 4rem !important;*/
+    }
+    .security .col-md-6.pl-5 {
+        padding-left: 15px !important;
+    }
+    .security .col-md-6.pl-5 .fund-str {
+        padding-left: 0 !important
+    }
+    .fees-section {
+        margin: 5px auto
+    }
+    .factsheet_form .col {
+        /* display: inline-block; */
+        flex-basis: unset;
+        /* max-width: 50%; */
+        padding: 0 15px !important;
+    }
+    .factsheet_form .col .md-form {
+        max-width: 300px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 0
+    }
+    .criterias .col {
+        flex-basis: unset;
+        display: inline-block;
+        width: 100%;
+        margin-bottom: 0;
+    }
+    .rules {
+        min-height: unset;
+        padding: 2rem 1rem !important;
+    }
+    .smart-rebalance .padding-zero {
+        padding-top: 0 !important
+    }
+    .smart-rebalance .padding-zero .margin-zero {
+    margin-top: 20px !important;
+    text-align: left !important;
+}
+    .smart-rebalance .margin-zero {
+        margin-bottom: 0 !important
+    }
+    .rules br {
+        display: none
+    }
+    .rules h4 {
+        margin-bottom: 0
+    }
+    .portfolio-graphs .portfolio-graphs-data .col-md-4 {
+        margin-bottom: 10px;
+    }
+    .funds-list-data .col-sm-6 {
+/*
+        -ms-flex: 0 0 50%;
+        flex: 0 0 50%;
+        max-width: 50%;
+*/
+    }
+
+    .smart-index-graph-right {
+        border-radius: 5px 0 0 5px
+    }
+    .fund-ratio {
+        margin-bottom: 40px;
+    }
+    .fund-ratio .row {
+        padding-top: 0 !important;
+        padding-bottom: 0 !important;
+    }
+    .half-bg-red::after {
+        width: 100%
+    }
+    .funds-list-data {
+        /* margin-left: 0 !important; */
+        padding-left: 0 !important;
+    }
+    .portfolio-graphs .section-top-content {
+        padding-bottom: 20px!important
+    }
+    .license h3 {
+        padding-left: 0 !important;
+        margin-bottom: 0 !important
+    }
+    .ourfunds-section .background-diamond {
+        padding-top: 30px !important;
+        padding-bottom: 0 !important
+    }
+    .cube_img {
+        margin: 35px 0 0 70px !important
+    }
+    .modal-dialog {
+        max-width: 80vh
+    }
+    #nav-menu .modal-dialog {
+        max-width: 100%;
+    }
+    .crypto-investment .col-md-6 .graph-chart,
+    .crypto-investment .col-md-6 .graph-chart {
+        margin-right: 0 !important;
+        margin-left: 0 !important;
+        margin-top: 20px !important
+    }
+    .graph-chart-right {
+        margin-top: 3rem;
+    }
+
+    .whats-new-posts .img-fluid {
+        width: 100%;
+        height: auto;
+    }
+    .whats-new-posts .col-md-6 {
+        padding-left: 15px !important;
+        padding-right: 15px !important;
+    }
+    .about-banner .shapes {
+        background: none
+    }
+    .container.shapes .row {
+        margin-bottom: 0 !important;
+        padding-bottom: 0 !important;
+    }
+    .about-banner .header-title-section {
+        /*        padding: 75px 0 0 !important;*/
+    }
+    body .profile-tabs .nav-tabs {
+        float: none !important;
+        border-bottom: 0 none
+    }
+
+
+    .team-section-content::before {
+        width: 66.666667%
+    }
+
+    .responsive_tab_content.row .responsive_tab_content_order1 .img img {
+        width: 100%;
+    }
+    .responsive_tab_content.row .responsive_tab_content_order1 .img {
+        position: absolute;
+        bottom: 0;
+    }
+    .news-section .col {
+        flex-basis: unset;
+    }
+    .news-section .card-deck {
+        margin-left: 0;
+        padding: 0;
+        margin-right: 0;
+    }
+    .news-section .card {
+        margin-bottom: 1rem !important;
+    }
+    .responsive_tab_content_order2 {
+        padding-top: 0 !important;
+        padding-bottom: 2rem !important
+    }
+
+    .thoughtstream-posts {
+        min-height: 200px;
+    }
+    .posts-section h5 {
+        margin-bottom: 1rem !important;
+    }
+    /*    Article*/
+    .article-banner .text-right {
+        text-align: left !important;
+    }
+
+   .article-banner .like-share-icon {
+    height: 38px;
+    width: 38px;
+    line-height: 42px;
+    padding: 0;
+    text-align: center;
+}
+
+    .posts-section {
+        padding-bottom: 0 !important;
+    }
+
+    .posts-section .user-img {
+        margin: 0 !important;
+        display: inline-block
+    }
+
+    .posts-section .user-info {
+        display: inline-block;
+        vertical-align: top;
+        position: relative;
+      
+        left: 10px
+    }
+
+    .terms {
+        order: 2;
+    }
+
+
+    .posts-section .terms .smart-text {
+        margin: 0 !important;
+        padding: 0 !important;
+        border-right: 0px !important;
+    }
+    .contact-banner {
+        background-position: 350px -10%;
+    }
+    .contact-form {
+        padding-left: 50px !important
+    }
+    /*
+    .banner .header-title-section
+    {
+        padding-top: 75px;
+    }
+*/
+    .fund-detail-section .text-right {
+        text-align: left !important;
+        margin-right: 0 !important
+    }
+    .smart-executiion {
+        text-align: left !important;
+        margin-left: 0 !important
+    }
+    .smart-executiion img {
+        width: 100%;
+        height: auto;
+    }
+    .balanced-fund-content {
+        /*        padding-top: 50px*/
+    }
+    .balanced-fund {
+        padding-left: 15px !important;
+        padding-right: 15px !important;
+        display: inline-block;
+        width: 100%;
+        margin-bottom: 15px !important;
+        margin-left: 0 !important;
+        vertical-align: top;
+        margin-right: 0 !important;
+    }
+    .balanced-fund-wrap {
+        padding-left: 0 !important;
+        margin-bottom: 15px;
+        padding-right: 0;
+    }
+    .balanced-fund-wrap .section-top-content {
+        padding-left: 0
+    }
+    .fund-detail-section {
+        position: static;
+        top: auto;
+        border-radius: 0 !important;
+    }
+
+    .crypto-fund-bg .container .row {
+        margin-left: 0;
+        margin-right: 0;
+        display: none
+    }
+    .crypto-fund-bg::before {
+        content: none;
+        position: static;
+        width: 0;
+        height: 0
+    }
+    .balanced-fund,
+    .balanced-fund-wrap {
+        margin-bottom: 0 !important
+    }
+    .fund-detail-section .col-md-5 {
+        border-bottom: 1px solid #ededed;
+        padding-bottom: 15px;
+        margin-bottom: 15px;
+    }
+    .fund-detail-section .col-md-5,
+    .fund-detail-section .col-md-7 {
+        padding-left: 15px !important;
+        padding-right: 15px !important;
+        max-width: inherit
+    }
+    .smart-index-graph-right .other-details {
+        margin-top: 8% !important;
+        padding: 5% 0;
+    }
+    .hide-xs {
+        display: none
+    }
+
+    .fund_hide .section-top-content h2 {
+        font-size: 18px !important;
+        color: #000000 !important;
+        line-height: 26px;
+    }
+    .balanced-fund-content .font-21 {
+        font-size: 17px !important;
+    }
+    .balanced-fund-wrap.active .balanced-fund-content h3 a {
+        font-size: 20px !important;
+        color: #da291c !important;
+    }
+    div#myModal .body-content {
+        padding-left: 0 !important;
+    }
+   div#myModal .modal-dialog .modal-content {
+    margin: 0 15px;
+    padding: 0 25px !important;
+}
+    a.close {
+    right: -25px;
+    padding: 5px 17px;
+}
+    #myModal .modal-footer {
+    padding-left: 0 !important;
+    /* color: #ccc !important; */
+}
+    #myModal .modal-footer a {
+    color: #777;
+}
+    div#myModal .body-content {
+        padding-bottom: 0 !important
+    }
+    .replies .my-reply {
+        /* max-width: 470px; */
+        padding-left: 0;
+    }
+    .whats-new-posts {
+        padding: 0 15px;
+    }
+    .container.whats-new.whats-new-posts .col-md-5 {
+    padding-right: 15px !important;
+}
+    .posts-section .col-9 hr {
+        margin: 20px 0 !important;
+    }
+    .top-post {
+        margin-bottom: 0px;
+    }
+    .left-article-icons {
+        margin-top: 0px;
+    }
+    .whats-new.whats-new-posts .gap-mobile-view {
+        margin-top: 20px !important;
+    }
+    .whats-new.whats-new-posts .gap-mobile-view-p {
+        padding-top: 20px !important
+    }
+  
+    .fund-detail-section-desktop {
+        display: none
+    }
+    .fund-detail-section-mobile {
+        display: block
+    }
+    .tab-content.fund-detail-section .row {
+        opacity: 1;
+        visibility: visible;
+        display: block
+    }
+    .crypto-fund-bg .container {
+        height: auto !important;
+        padding-top: 35px;
+        padding-bottom: 35px;
+    }
+   .fund-detail-section-mobile .section-top-content {
+    margin: 30px 0 !important;
+}
+    .crypto-trigger {
+    margin-top: 20px !important;
+}
+    .fund-detail-section-mobile .section-top-content > div {
+        padding-left: 0 !important;
+        margin-left: 0 !important;
+    }
+    p.pr-4.font-18.short-desc {
+        font-weight: normal;
+        color: rgba(0, 0, 0, .5) !important;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+    }
+    ul#interaction-tabs {
+        border-bottom: 0
+    }
+
+    ul#interaction-tabs li a {
+        color: rgba(0, 0, 0, .4);
+        border: 0 none;
+        text-align: center;
+        font-size: 18px;
+        padding: 20px 0;
+        font-weight: normal;
+        border-radius: 0;
+        border-bottom: 3px solid transparent;
+    }
+    ul#interaction-tabs li a.active {
+        border-bottom: 3px solid #da291c !important;
+        color: rgba(0, 0, 0, 1);
+    }
+    ul#interaction-tabs li {
+        border: 0 none;
+        width: 50%;
+
+    }
+    .fund-images img
+    {
+        width:65px;
+    }
+    .fund-ratio .col-11,
+    .fund-ratio .col-9 {
+        max-width: 100%;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+    }
+    .fund-ratio .col-11 .smart-index-graph-left,
+    .fund-ratio .col-9 .smart-index-graph-right {
+        padding-right: 35px;
+        padding-left: 35px;
+        margin-left: 0;
+        margin-right: 0
+    }
+    .fund-ratio .col-11 .smart-index-graph-left {
+    border-radius: 5px 5px 0 0;
+        -webkit-border-radius: 5px 5px 0 0;
+        -moz-border-radius: 5px 5px 0 0;
+        -o-border-radius: 5px 5px 0 0;
+        -ms-border-radius: 5px 5px 0 0;
+}
+     .fund-ratio .col-9 .smart-index-graph-right {
+    border-radius: 0 0 5px 5px;
+        -webkit-border-radius: 0 0 5px 5px;
+        -moz-border-radius: 0 0 5px 5px;
+        -o-border-radius: 0 0 5px 5px;
+        -ms-border-radius: 0 0 5px 5px;
+}
+    .container.smart-rebalance {
+    padding-top: 15px;
+}
+    .container.smart-rebalance .section-top-content  p.font-weight-bold.font-15 {
+    margin-bottom: 20px;
+}
+
+.container.smart-rebalance .section-top-content p.font-15 {
+    margin: 0 0 60px;
+}
+    .logo-slogan img {
+    width: 200px;
+}
+    .whats-new .row .col-md-8, .whats-new .row .col-md-8 p {
+    margin-bottom: 0 !important;
+}
+.dropdown-subname {
+    color: rgba(0,0,0,.3);
+    font-size: 13px;
+    font-weight: normal;
+}
+    #nav-menu ul.open-footerul li {
+    line-height: 19px;
+}
+    #nav-menu ul.open-footerul li:first-child{
+        border-bottom: 1px solid #ececec
+    }
+     #nav-menu ul.open-footerul li a
+    {
+        font-weight: 500;
+                padding: 5px;
+    font-size: 15px;
+    }
+.active-inner a {
+    background: #ececec;
+
+}
+   #nav-menu .modal-body
+    {
+        padding: 0 !important
+    }
+    .terms div {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+        border: 0 none !important
+}
+    .my-zero.py-zero {
+    padding-top: 0 !important;
+}
+}
+@media screen and (max-width: 750px) {
+   div.home-banner
+    {
+        min-height: 90vh;
+        height: auto
+    }
+       div.home-banner .header-title-section
+    {padding: 42vh 0 40px!important}
+.crypto-investment {
+    background-repeat: no-repeat !important;
+    background-position: right top!important;
+    background-attachment: scroll !important;
+    background-size: 160% !important;
+}
+    .team-section {
+    padding-top: 50px !important;
+}
+    }
+@media screen and (max-width:576px) {
+    .conclusion {
+    margin-top: 35px !important;
+}
+    .responsive_tab_content.row .responsive_tab_content_order2{
+
+padding-left: 25px !important;
+padding-right: 25px !important;
+}
+
+
+.people-section .row .col-md-8 {
+    margin-bottom: 0 !important;
+}
+
+.people-section .row .col-md-8 p {
+    margin-bottom: 0 !important;
+}
+
+.people-section .container {
+    padding: 0 25px !important;
+}
+.people-section {
+    padding: 45px 0 10px !important;
+}
+.posts-section .col-sm-2 img {
+    margin-bottom: 15px;
+    width: 80px;
+    height: auto;
+}
+    .navbar-brand img {
+        width: 130px;
+    }
+    .licensedwrap {
+    padding-bottom: 20px !important;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+    
+.navbar {
+    padding-right: 13px;
+    padding-left: 13px;
+}
+    .crypto-investment {
+    background-repeat: no-repeat !important;
+    background-position:  right top !important;
+    background-attachment: scroll !important;
+    background-size: 200% !important;
+}
+    ul#interaction-tabs li a {
+    font-size: 13px;
+    line-height: 15px;
+    font-weight: bold;
+}
+ul#interaction-tabs li a span {
+    font-weight: normal;
+}
+    div.home-banner {
+    background: url(../img/background-diamond1.png) no-repeat right 150px;
+    background-size: 100%;
+}
+   div.home-banner .header-title-section {
+    padding: 25vh 0 5vh !important;
+}
+    .sidebar h6 {
+        margin-top: 0 !important;
+    }
+ 
+
+    .masnory_image {
+        height: 251px;
+    }
+    .news-section .card-deck .card {
+        margin-left: 15px !important;
+        margin-right: 15px !important;
+    }
+
+    .team-section-content .col-md-12 {
+        padding: 0
+    }
+    .responsive_tab_content.row .responsive_tab_content_order2 {
+        -webkit-box-ordinal-group: 3;
+        -ms-flex-order: 2;
+        padding-left: 15px !important;
+        order: 2;
+        padding-right: 15px !important;
+        background: #da291c;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin-top: 0 !important;
+        padding-top: 0 !important;
+        padding-bottom: 15px !important;
+        z-index: 1
+    }
+    .responsive_tab_content.row .responsive_tab_content_order1 {
+        -webkit-box-ordinal-group: 2;
+        -ms-flex-order: 1;
+        order: 1;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .team-section-content::before {
+        right: 0;
+        background: none;
+        position: unset;
+        display: none;
+    }
+    .responsive_tab_content.row .responsive_tab_content_order2 .text-right {
+        padding-right: 0 !important
+    }
+    .responsive_tab_content.row .responsive_tab_content_order1 .img {
+        position: relative;
+    }
+
+  .responsive_tab_content.row .responsive_tab_content_order1 .img img {
+    width: auto;
+    max-width: 100%;
+    max-height: 244px;
+}
+    .tabs-for-mobile {
+    position: absolute;
+    right: 15px;
+    width: 80px;
+    height: 100%;
+}
+    .responsive_tab_content.row .responsive_tab_content_order2 .text-right.pb-3.pt-5.pr-3 {
+    padding-top: 25px !important;
+    padding-left: 25px;
+    padding-right: 25px !important;
+}
+.name-for-mobile {
+    position: absolute;
+    top: -85px;
+    z-index: 9999;
+    background: #da291c;
+    padding: 10px 15px 8px;
+    border-radius: 2px;
+    right: 120px;
+}
+    .name-for-mobile .font-15 {
+    margin-bottom: 0 !important;
+}
+    .responsive_tab_content.row .responsive_tab_content_order2 .text-right {
+        text-align: left !important;
+    }
+    .social-icons {
+        float: left
+    }
+
+    /* conatct */
+    .contact-wrapper::after {
+        content: none;
+    }
+
+    .contact-wrapper .contact-form {
+        padding: 30px !important;
+        transform: none;
+        margin-top: -45px;
+    }
+
+    .contact-wrapper .container {
+        padding-right: 35px;
+        margin-left: 35px;
+    }
+
+    .slider-section .banner-name {
+        bottom: 70px;
+    }
+
+    .contact-banner {
+        background-size: cover;
+        background-position: top 200px right -150px
+    }
+
+    .contact-wrapper::before {
+        width: 100%
+    }
+
+    .contact-wrapper .address {
+        order: 2;
+        padding-left: 0;
+        padding-top: 15px;
+    }
+
+    .slider-section img {
+        min-height: 150px;
+    }
+
+    .col-sm-6.footer-copyright {
+        max-width: 260px;
+        margin: 0 auto;
+    }
+    .term_policy.ml-auto.float-right {
+        float: none !important;
+        text-align: center;
+        margin-top: 0;
+    }
+    .replies {
+        padding-top: 25px !important
+    }
+    .replies .user-img {
+        display: none;
+    }
+    .col-sm-6.footer-copyright {
+        -webkit-box-ordinal-group: 3;
+        -ms-flex-order: 2;
+        order: 2;
+    }
+    .bottom-footer {
+        padding: 0 !important
+    }
+    .bottom-footer .container {
+        padding: 0 15px !important
+    }
+    .term_policy.ml-auto.float-right li {
+        width: auto;
+        padding: 18px 0 !important;
+        margin: 0 auto !important;
+        display: inline-block;
+        width: 70%;
+
+    }
+    .col-sm-6.footer-copyright {
+        padding: 15px 0 18px;
+    }
+    .term_policy.ml-auto.float-right li:first-child, .term_policy.ml-auto.float-right ul {
+    border-bottom: 1px solid #ccc;
+    margin-left: -15px;
+    margin-right: -15px;
+}
+    .col-sm-6.footer-copyright .float-left {
+        float: none !important;
+        text-align: center;
+        line-height: normal;
+        border: 0 !important;
+        padding-right: 0 !important;
+        padding-left: 0 !important;
+    }
+    .col-sm-6.footer-copyright .float-left div {
+        color: #000 !important;
+    }
+    .col-sm-6.footer-copyright .float-left .font-weight-bold {
+        font-size: 14px;
+
+    }
+    .container {
+        padding: 0 25px;
+    }
+    .crypto-fund-bg .container {
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+    .top-footer.container {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+   .ourfunds-section .background-diamond {
+    margin-left: -30px;
+    margin-right: -30px;
+    width: auto;
+}
+    .fund-details .header-title-section {
+        padding-bottom: 30px !important
+    }
+    .fund-details .link_download {
+        min-width: unset;
+        width: 100%
+    }
+    .ourfunds-section .mb-auto.z-1.mt-5 {
+        margin-top: 0 !important;
+    }
+    .ourfunds-section .mb-auto.z-1.mt-5 h3 {
+        margin-top: 20px !important;
+        font-size: 18px
+    }
+    .cube_img img {
+        width: 60px;
+        /* margin-left: 0 !important; */
+    }
+.feature-box {
+    min-height: 115px;
+    margin-bottom: 20px !important;
+}
+    .licensedwrap {
+        padding-bottom: 20px !important
+    }
+    .smart-index-graph-left {
+        padding-right: 20px !important;
+        padding-bottom: 20px !important;
+        padding-top: 20px !important;
+    }
+    .smart-index-graph-right {
+        padding-bottom: 0;
+        border-radius: 5px 0 0 5px;
+        padding-left: 20px !important;
+    }
+/*
+    .fund-ratio .col-11,
+    .fund-ratio .col-9 {
+        max-width: 100%;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+    }
+*/
+    .rules h4 {
+        margin-bottom: 0;
+        font-size: 14px !important;
+        line-height: 24px
+    }
+    .rules {
+        padding: 12px 0px !important;
+    }
+    .criterias .col {
+    padding-left: 15px !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding-right: 0 !important;
+    text-align: left;
+    position: relative;
+    white-space: normal;
+    max-width: 100%;
+}
+    .criterias .col h6 {
+        font-size: 13px;
+    }
+    .criterias .col::before {
+        content: ".";
+        display: inline-block;
+        float: left;
+        font-size: 32px;
+        line-height: 5px;
+        position: absolute;
+        margin-right: 5px;
+        left: 0;
+    }
+    .container.security .pr-5.mr-5, .fund-str {
+        padding-right: 0 !important;
+        margin-right: 0 !important;
+    }
+    .team-section-content .container {
+    margin-left: -30px;
+    margin-right: -30px;
+    width: auto;
+}
+.banner.about-banner p {
+    font-size: 13px !important;
+    line-height: 20px;
+    margin-bottom: 0 !important;
+}
+    .our_valued_service {
+    margin-bottom: 15px;
+}
+   .team-section .col-md-8.mb-5.mx-auto.text-center {
+/*    margin-bottom: 0 !important;*/
+}
+    .float-right.left-article-icons {
+    float: none !important;
+        margin-top: 10px
+}
+    .article-banner .like-share-icon {
+    margin: 0 10px 0 0 !important;
+}
+    .font-18
+    {
+        font-size:14px !important
+    }
+    .font-15
+    {
+        font-size:13px !important
+    }
+    .bg-light.section-background.position-relative {
+    margin-left: -25px;
+    margin-right: -25px;
+    width: auto;
+}
+    .smart-index .font-15 h4 {
+    margin-bottom: 5px !important;
+}
+    .smart-index {
+    padding-bottom: 0 !important;
+}
+    .tags.mt-5 {
+    margin-top: 0 !important;
+}
+    .posts-section .user-img {
+    width: 40px;
+    height: 40px;
+}
+    .user-info {
+    text-align: left !important;
+}
+    
+.comment-section .my-comment {
+    /* max-width: 600px; */
+    padding-left: 35px;
+}
+.user-img {
+    width: 25px;
+    height: 25px;
+}
+    .comments.comment-send .user-img {
+    display: none;
+}
+    .my-comment {
+    padding-left: 30px !important;
+}
+    .comment-send .my-comment
+    {
+        padding-left: 0 !important
+    }
+    .replies.replies-section .my-reply {
+    margin-left: 0 !important;
+}
+    .comment-send{ padding-top: 10px !important}
+    .comment-section{ padding-bottom: 0 !important}
+    
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    border-color: transparent !important;
+}
+    body .profile-tabs .nav-tabs
+    {
+        border-left: 1px solid #f2f2f2
+    }
+    .nav-tabs .nav-item {
+    border-left: 1px solid #dee2e6;
+}
+    .nav-tabs .nav-item .nav-link {
+    border-bottom: 1px solid;
+}
+    #nav-menu a.close-menu{
+        right:28px
+    }
+}
+
+@media screen and (max-width:475px) {
+    .masnory_image {
+        height: 207px;
+    }
+    .sidebar .bloglist {
+        max-width: 100%;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+
+    }
+    .footer-address p {
+        font-size: 18px !important
+    }
+    .social-info .icon {
+        float: none !important;
+        border-right: 0 !important;
+        border-bottom: 1px solid rgba(222, 226, 230, 0.3) !important;
+        width: 100%;
+    }
+    .social-info .count {
+        min-width: unset;
+        padding: 0 10px;
+        float: none;
+        line-height: 35px;
+        width: 100%;
+    }
+}
+
+@media (min-width: 768px) {
+    .crypto-fund-bg .col-md-9 {
+        -ms-flex: 0 0 70%;
+        flex: 0 0 70%;
+        max-width: 70%;
+    }
+    .crypto-fund-bg .col-md-3 {
+        -ms-flex: 0 0 30%;
+        flex: 0 0 30%;
+        max-width: 30%;
+    }
+}
+
+@media screen and (min-width:576px) {
+    #nav-menu .modal-dialog {
+        max-width: 100%
+    }
+    .modal-dialog {
+        max-width: 1000px;
+    }
+    .responsive_tab_content.row {
+        display: -webkit-box !important;
+        display: -ms-flexbox !important;
+        display: flex !important;
+        margin: 0 -15px;
+    }
+
+}
